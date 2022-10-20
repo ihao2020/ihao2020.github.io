@@ -1,10 +1,10 @@
-https://ihao.site/about/index.html
-https://ihao.site/gallery/ohmygirl.html
-https://ihao.site/gallery/index.html
-https://ihao.site/music/index.html
-https://ihao.site/posts/16107.html
-https://ihao.site/tags/index.html
-https://ihao.site/categories/index.html
 https://ihao.site/link/index.html
+https://ihao.site/music/index.html
+https://ihao.site/tags/index.html
+https://ihao.site/posts/16107.html
+https://ihao.site/about/index.html
+https://ihao.site/categories/index.html
+https://ihao.site/gallery/index.html
+https://ihao.site/gallery/ohmygirl.html
 https://ihao.site/
 https://ihao.site/categories/test/

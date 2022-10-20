@@ -2,27 +2,9 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://ihao.site/about/index.html</loc>
+    <loc>https://ihao.site/link/index.html</loc>
     
-    <lastmod>2022-10-19</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://ihao.site/gallery/ohmygirl.html</loc>
-    
-    <lastmod>2022-10-19</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://ihao.site/gallery/index.html</loc>
-    
-    <lastmod>2022-10-19</lastmod>
+    <lastmod>2022-10-20</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -31,16 +13,7 @@
   <url>
     <loc>https://ihao.site/music/index.html</loc>
     
-    <lastmod>2022-10-19</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://ihao.site/posts/16107.html</loc>
-    
-    <lastmod>2022-10-19</lastmod>
+    <lastmod>2022-10-20</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -49,7 +22,25 @@
   <url>
     <loc>https://ihao.site/tags/index.html</loc>
     
-    <lastmod>2022-10-19</lastmod>
+    <lastmod>2022-10-20</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://ihao.site/posts/16107.html</loc>
+    
+    <lastmod>2022-10-20</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://ihao.site/about/index.html</loc>
+    
+    <lastmod>2022-10-20</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -58,16 +49,25 @@
   <url>
     <loc>https://ihao.site/categories/index.html</loc>
     
-    <lastmod>2022-10-19</lastmod>
+    <lastmod>2022-10-20</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>https://ihao.site/link/index.html</loc>
+    <loc>https://ihao.site/gallery/index.html</loc>
     
-    <lastmod>2022-10-19</lastmod>
+    <lastmod>2022-10-20</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://ihao.site/gallery/ohmygirl.html</loc>
+    
+    <lastmod>2022-10-20</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
