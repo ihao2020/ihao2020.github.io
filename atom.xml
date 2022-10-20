@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>iHao</title>
+  <icon>https://ihao.site/icon.png</icon>
+  <subtitle>Stay awesome!</subtitle>
+  <link href="https://ihao.site/atom.xml" rel="self"/>
+  
+  <link href="https://ihao.site/"/>
+  <updated>2022-10-19T13:55:00.622Z</updated>
+  <id>https://ihao.site/</id>
+  
+  <author>
+    <name>iHao</name>
+    <email>ihao2020@163.com</email>
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="https://ihao.site/posts/16107.html"/>
+    <id>https://ihao.site/posts/16107.html</id>
+    <published>2022-10-18T13:31:23.086Z</published>
+    <updated>2022-10-19T13:55:00.622Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot;&gt;documentation&lt;/a&gt;</summary>
+        
+      
+    
+    
+    
+    <category term="test" scheme="https://ihao.site/categories/test/"/>
+    
+    
+  </entry>
+  
+</feed>
