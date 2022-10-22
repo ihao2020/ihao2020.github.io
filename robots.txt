@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://ihao.site/sitemap.xml
+Sitemap: https://ihao.site/baidusitemap.xml
