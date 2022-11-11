@@ -2,78 +2,6 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://blog.ihao.site/essay/index.html</loc>
-    
-    <lastmod>2022-11-11</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://blog.ihao.site/gallery/index.html</loc>
-    
-    <lastmod>2022-11-11</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://blog.ihao.site/gallery/ohmygirl.html</loc>
-    
-    <lastmod>2022-11-11</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://blog.ihao.site/link/index.html</loc>
-    
-    <lastmod>2022-11-11</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://blog.ihao.site/moives/index.html</loc>
-    
-    <lastmod>2022-11-11</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://blog.ihao.site/moments/index.html</loc>
-    
-    <lastmod>2022-11-11</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://blog.ihao.site/music/index.html</loc>
-    
-    <lastmod>2022-11-11</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://blog.ihao.site/privacy/index.html</loc>
-    
-    <lastmod>2022-11-11</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://blog.ihao.site/rss/index.html</loc>
     
     <lastmod>2022-11-11</lastmod>
@@ -201,6 +129,78 @@
   
   <url>
     <loc>https://blog.ihao.site/cookies/index.html</loc>
+    
+    <lastmod>2022-11-11</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.ihao.site/essay/index.html</loc>
+    
+    <lastmod>2022-11-11</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.ihao.site/gallery/index.html</loc>
+    
+    <lastmod>2022-11-11</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.ihao.site/gallery/ohmygirl.html</loc>
+    
+    <lastmod>2022-11-11</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.ihao.site/link/index.html</loc>
+    
+    <lastmod>2022-11-11</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.ihao.site/moives/index.html</loc>
+    
+    <lastmod>2022-11-11</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.ihao.site/moments/index.html</loc>
+    
+    <lastmod>2022-11-11</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.ihao.site/music/index.html</loc>
+    
+    <lastmod>2022-11-11</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.ihao.site/privacy/index.html</loc>
     
     <lastmod>2022-11-11</lastmod>
     
