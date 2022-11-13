@@ -38,7 +38,25 @@
   </url>
   
   <url>
+    <loc>https://blog.ihao.site/posts/4a17b156.html</loc>
+    
+    <lastmod>2022-11-13</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://blog.ihao.site/categories/index.html</loc>
+    
+    <lastmod>2022-11-13</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.ihao.site/about/index.html</loc>
     
     <lastmod>2022-11-13</lastmod>
     
@@ -57,24 +75,6 @@
   
   <url>
     <loc>https://blog.ihao.site/fcircle/index.html</loc>
-    
-    <lastmod>2022-11-13</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://blog.ihao.site/posts/4a17b156.html</loc>
-    
-    <lastmod>2022-11-13</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://blog.ihao.site/about/index.html</loc>
     
     <lastmod>2022-11-13</lastmod>
     
